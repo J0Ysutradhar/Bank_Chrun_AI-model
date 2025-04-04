@@ -1,4 +1,4 @@
-# Churn Prediction Project
+# Churn Prediction Project1
 live at; https://bank-churn-js-ai.streamlit.app/
 This project is a machine learning application that predicts customer churn for a bank. The model uses various customer attributes to predict whether a customer will exit the bank.
 
