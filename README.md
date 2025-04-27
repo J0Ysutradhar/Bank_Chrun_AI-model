@@ -21,7 +21,7 @@ This project is a machine learning application that predicts customer churn for 
 
 1. Clone the repository:
     ```sh
-   [ git clone https://github.com/yourusername/churn-prediction.git](https://github.com/J0Ysutradhar/Bank_Chrun_AI-model.git)
+    git clone https://github.com/J0Ysutradhar/Bank_Chrun_AI-model.git
     cd Bank_Chrun_AI-model
     ```
 
